@@ -7,7 +7,7 @@
 
 ![Java](https://img.shields.io/badge/java-programming-red)
 ![Kotlin](https://img.shields.io/badge/kotlin-programming-red)
-![Kafka](https://img.shields.io/badge/kafka-message_broker-red)
+![Kafka](https://img.shields.io/badge/kafka-message_broker-green)
 ![Cassandra](https://img.shields.io/badge/cassandra-database-blue)
 ![Tarantool](https://img.shields.io/badge/tarantool-database-blue)
 ![Docker](https://img.shields.io/badge/docker-containers-%232496ED?style=flat&logo=docker)
